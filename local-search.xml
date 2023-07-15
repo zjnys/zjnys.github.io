@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>DaSE夏令营实践项目总结</title>
+    <link href="/2023/07/15/DaSE%E5%A4%8F%E4%BB%A4%E8%90%A5%E5%AE%9E%E8%B7%B5%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/"/>
+    <url>/2023/07/15/DaSE%E5%A4%8F%E4%BB%A4%E8%90%A5%E5%AE%9E%E8%B7%B5%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/</url>
+    
+    <content type="html"><![CDATA[<h2 id="DaSE夏令营实践项目总结-反思"><a href="#DaSE夏令营实践项目总结-反思" class="headerlink" title="DaSE夏令营实践项目总结&amp;反思"></a>DaSE夏令营实践项目总结&amp;反思</h2><p>在本次实践项目中，我主要是基于GitHub和Hexo静态网站生成引擎制作了个人博客网站。<br>尽管因为一些原因，网站目前搭建的并不完善。<br>在此过程中有一些体会与反思，总结如下。</p><h4 id="关于Github"><a href="#关于Github" class="headerlink" title="关于Github"></a>关于Github</h4><p>GitHub是一个非常流行的代码托管平台，它不仅提供了一个安全、可靠的存储空间，还允许用户与其他人共享他们的代码，并协作开发项目。在使用GitHub的过程中，我深深感受到了它的优点和便利。<br>首先，GitHub非常易于使用。它的界面简洁明了，没有任何复杂的操作，只需几个简单的步骤就可以创建一个新的代码仓库。同时，GitHub还提供了丰富的文档和教程，帮助用户快速熟悉它的各种功能和操作。<br>其次，GitHub提供了强大的版本控制功能。通过Git，我可以轻松地管理我的代码，可以随时查看历史版本、恢复错误、合并冲突等等。这不仅保证了代码的稳定性和可靠性，还让我能够更加专注于代码的开发和优化。</p><p>除了代码托管，GitHub还可以用于制作个人博客静态网站。</p><h4 id="关于Hexo"><a href="#关于Hexo" class="headerlink" title="关于Hexo"></a>关于Hexo</h4><p>通过Hexo静态网站生成引擎，我可以轻松地创建一个个性化的博客网站，并随时更新和发布新的内容。Hexo的工作原理非常简单，它通过生成静态网页，将我的博客内容存储在本地，从而避免了动态网站的维护成本和性能问题。同时，Hexo还提供了丰富的插件和主题，让我能够自由地定制我的博客样式和功能。</p><p>在使用GitHub和Hexo制作个人博客静态网站的过程中，我深刻感受到了它们的优势和便利。GitHub提供了安全的代码托管和协作开发环境，让我的代码项目更加可靠和易于管理；而Hexo则提供了一个快速、简单、个性化的博客网站生成方式，让我能够自由地发布和分享我的思想和经验。<br>总的来说，GitHub和Hexo是一个非常适合程序员和其他技术人士使用的工具组合。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>CreatedByZjn</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Jaccard距离</title>
     <link href="/2023/07/15/Jaccard%E8%B7%9D%E7%A6%BB/"/>
     <url>/2023/07/15/Jaccard%E8%B7%9D%E7%A6%BB/</url>
